@@ -1,0 +1,11 @@
+D:\SLH Work\APIGateway\BoyCSwagger\bin\Debug\netstandard2.0\BoyCSwagger.deps.json
+D:\SLH Work\APIGateway\BoyCSwagger\bin\Debug\netstandard2.0\BoyCSwagger.dll
+D:\SLH Work\APIGateway\BoyCSwagger\obj\Debug\netstandard2.0\BoyCSwagger.csproj.CoreCompileInputs.cache
+D:\SLH Work\APIGateway\BoyCSwagger\obj\Debug\netstandard2.0\BoyCSwagger.AssemblyInfoInputs.cache
+D:\SLH Work\APIGateway\BoyCSwagger\obj\Debug\netstandard2.0\BoyCSwagger.AssemblyInfo.cs
+D:\SLH Work\APIGateway\BoyCSwagger\bin\Debug\netstandard2.0\BoyCSwagger.pdb
+D:\SLH Work\APIGateway\BoyCSwagger\bin\Debug\netstandard2.0\Microsoft.CSharp.dll
+D:\SLH Work\APIGateway\BoyCSwagger\obj\Debug\netstandard2.0\BoyCSwagger.csproj.CopyComplete
+D:\SLH Work\APIGateway\BoyCSwagger\obj\Debug\netstandard2.0\BoyCSwagger.dll
+D:\SLH Work\APIGateway\BoyCSwagger\obj\Debug\netstandard2.0\BoyCSwagger.pdb
+D:\SLH Work\APIGateway\BoyCSwagger\obj\Debug\netstandard2.0\BoyCSwagger.csprojAssemblyReference.cache

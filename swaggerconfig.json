@@ -1,0 +1,11 @@
+﻿{
+  "swagger": "2.0",
+  "info": {
+    "version": "v1",
+    "title": "SLH API"
+  },
+  "paths": {
+    
+  },
+  "definitions": {}
+}
